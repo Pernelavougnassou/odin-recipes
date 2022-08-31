@@ -1,0 +1,22 @@
+.header {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    color: lightblue;
+}
+
+.header.header-second {
+    font-size: 18px;
+    color: burlywood;
+}
+
+#image-size {
+    height: 400px;
+    width: 600px;
+}
+
+.para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
